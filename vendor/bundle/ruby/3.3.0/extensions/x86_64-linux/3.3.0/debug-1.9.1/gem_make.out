@@ -1,0 +1,19 @@
+current directory: /home/admin/example_project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+/home/admin/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/admin/example_project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-14834-peafs4 sitelibdir\=./.gem.20240301-14834-peafs4 clean
+
+current directory: /home/admin/example_project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-14834-peafs4 sitelibdir\=./.gem.20240301-14834-peafs4
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/admin/example_project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-14834-peafs4 sitelibdir\=./.gem.20240301-14834-peafs4 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240301-14834-peafs4/debug
+
+current directory: /home/admin/example_project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-14834-peafs4 sitelibdir\=./.gem.20240301-14834-peafs4 clean
